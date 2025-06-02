@@ -93,5 +93,10 @@ Le client affichera :
 - Les soldes des comptes sont générés aléatoirement entre 1000 et 10000
 - Les dates de création sont fixées à la date courante
 
+## Lancement
+
+![image](https://github.com/user-attachments/assets/a4b2c3e3-da65-4c5a-ac89-327f2e637af5)
+
+
 ## Auteur
 [LAICHI Yassine]  
